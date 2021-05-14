@@ -1,0 +1,101 @@
+{
+  "uid" : "675c923b1097101",
+  "name" : "lambdaStepTest()",
+  "fullName" : "io.qameta.allure.examples.junit5.AllureStepTest.lambdaStepTest",
+  "historyId" : "4a33d99e5caa808f3f74c26ee54dfa90",
+  "time" : {
+    "start" : 1620996294438,
+    "stop" : 1620996294444,
+    "duration" : 6
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Parent lambda step with parameter [parameter value]",
+      "time" : {
+        "start" : 1620996294441,
+        "stop" : 1620996294443,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Nested lambda step with global parameter [global value]",
+        "time" : {
+          "start" : 1620996294443,
+          "stop" : 1620996294443,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "parameter",
+        "value" : "parameter value"
+      } ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "ampie-laptop"
+  }, {
+    "name" : "thread",
+    "value" : "1426021@ampie-laptop.ForkJoinPool-1-worker-3(16)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.junit5.AllureStepTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.junit5.AllureStepTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "lambdaStepTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.junit5.AllureStepTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "675c923b1097101.json",
+  "parameterValues" : [ ]
+}

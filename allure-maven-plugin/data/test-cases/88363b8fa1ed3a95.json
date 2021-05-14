@@ -1,0 +1,70 @@
+{
+  "uid" : "88363b8fa1ed3a95",
+  "name" : "commonStaticLabelTest()",
+  "fullName" : "io.qameta.allure.examples.junit5.AllureLabelsTest.commonStaticLabelTest",
+  "historyId" : "372bbe4b4bbb163cf065db82eca504f8",
+  "time" : {
+    "start" : 1620996294511,
+    "stop" : 1620996294511,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "static epic"
+  }, {
+    "name" : "story",
+    "value" : "static story"
+  }, {
+    "name" : "owner",
+    "value" : "static owner"
+  }, {
+    "name" : "feature",
+    "value" : "static feature"
+  }, {
+    "name" : "host",
+    "value" : "ampie-laptop"
+  }, {
+    "name" : "thread",
+    "value" : "1426021@ampie-laptop.ForkJoinPool-1-worker-3(16)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "io.qameta.allure.examples.junit5.AllureLabelsTest"
+  }, {
+    "name" : "testClass",
+    "value" : "io.qameta.allure.examples.junit5.AllureLabelsTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "commonStaticLabelTest"
+  }, {
+    "name" : "suite",
+    "value" : "io.qameta.allure.examples.junit5.AllureLabelsTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "owner" : "static owner",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "88363b8fa1ed3a95.json",
+  "parameterValues" : [ ]
+}
